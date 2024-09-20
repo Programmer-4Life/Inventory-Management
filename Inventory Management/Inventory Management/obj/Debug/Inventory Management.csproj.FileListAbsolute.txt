@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe.config
+C:\Users\Administrator\source\repos\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe
+C:\Users\Administrator\source\repos\Inventory Management\Inventory Management\bin\Debug\Inventory Management.pdb
+C:\Users\Administrator\source\repos\Inventory Management\Inventory Management\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\Inventory Management\Inventory Management\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Form1.resources
+C:\Users\Administrator\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.FormLogin.resources
+C:\Users\Administrator\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.FormRegister.resources
+C:\Users\Administrator\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventor.CCAFEA7E.Up2Date
+C:\Users\Administrator\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.exe
+C:\Users\Administrator\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.pdb
